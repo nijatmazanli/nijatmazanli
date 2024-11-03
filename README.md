@@ -1,19 +1,6 @@
 # Nijat Mazanli
 
 
-
-                                                                 
-o    o  o  o          o  o     o                            8  o 
-8b   8                8  8b   d8                            8    
-8`b  8 o8 o8 .oPYo.  o8P 8`b d'8 .oPYo. .oooo. .oPYo. odYo. 8 o8 
-8 `b 8  8  8 .oooo8   8  8 `o' 8 .oooo8   .dP  .oooo8 8' `8 8  8 
-8  `b8  8  8 8    8   8  8     8 8    8  oP'   8    8 8   8 8  8 
-8   `8  8  8 `YooP8   8  8     8 `YooP8 `Yooo' `YooP8 8   8 8  8 
-..:::..:..:8 :.....:::..:..::::..:.....::.....::.....:..::....:..
-::::::::::oP ::::::::::::::::::::::::::::::::::::::::::::::::::::
-::::::::::..:::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
 ## About Me
 Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Python, and C/C++. Seeking to gain hands-on experience and enhance skills through a dynamic cybersecurity internship. Eager to delve into penetration testing, malware analysis, and network security to contribute to a secure digital environment.
 
@@ -42,5 +29,7 @@ Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Pyt
 - Programming Olympiads
 - Ethical Hacking
 - Tool development
-  
+
+
+ PDB.OE$FFE EGECDZC6VCUPC6VCRTCAWEDZCUJCA/D5$CS44B$CQ2 
 ---
