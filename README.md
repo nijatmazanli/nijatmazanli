@@ -9,6 +9,10 @@ Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Pyt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli)](https://github.com/nijatmazanli/)
 ### Full list
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills
 - JavaScript
 - Python
