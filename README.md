@@ -1,7 +1,7 @@
 # Nijat Mazanli
 
 ![Banner](your-banner-image-url)
-[stats](https://github-readme-streak-stats.herokuapp.com/?user=nijatmazanli)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nijatmazanli&theme=travelers-theme&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 ## About Me
 Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Python, and C/C++. Seeking to gain hands-on experience and enhance skills through a dynamic cybersecurity internship. Eager to delve into penetration testing, malware analysis, and network security to contribute to a secure digital environment.
