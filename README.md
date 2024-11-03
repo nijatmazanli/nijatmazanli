@@ -6,13 +6,13 @@
 Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Python, and C/C++. Seeking to gain hands-on experience and enhance skills through a dynamic cybersecurity internship. Eager to delve into penetration testing, malware analysis, and network security to contribute to a secure digital environment.
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli)](https://github.com/nijatmazanli/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli&theme=onedark)](https://github.com/nijatmazanli/)
 ### Full list
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli&langs_count=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli&langs_count=10&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&cpunt=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=onedark&cpunt=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=onedark&cpunt=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=onedark&cpunt=10)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills
 - JavaScript
 - Python
@@ -30,7 +30,7 @@ Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Pyt
 - LinkedIn: [Your LinkedIn Profile]
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijatmazanli&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijatmazanli&show_icons=true&theme=onedark)
 
 ## Personal Interests
 - Cybersecurity
