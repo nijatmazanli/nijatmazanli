@@ -6,7 +6,7 @@
 Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Python, and C/C++. Seeking to gain hands-on experience and enhance skills through a dynamic cybersecurity internship. Eager to delve into penetration testing, malware analysis, and network security to contribute to a secure digital environment.
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli)](https://github.com/nijatmazanli/E-Commerical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli)](https://github.com/nijatmazanli/)\n
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 ## Skills
 - JavaScript
