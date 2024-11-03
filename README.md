@@ -22,7 +22,7 @@ Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Pyt
 - LinkedIn: [Your LinkedIn Profile]
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijatmazanli&show_icons=true&theme=radical)
 
 ## Personal Interests
 - Cybersecurity
