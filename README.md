@@ -8,11 +8,7 @@ Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Pyt
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli&theme=onedark)](https://github.com/nijatmazanli/)
 ### Full list
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli&langs_count=10&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&cpunt=10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=onedark&cpunt=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=onedark&cpunt=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=onedark&cpunt=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=onedark&count=10)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills
 - JavaScript
 - Python
