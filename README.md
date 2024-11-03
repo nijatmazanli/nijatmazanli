@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @poseydonexe
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on electronics and cybersecurity
-- 📫 How to reach me? With GitHub
-- 😄 Pronouns: Poseydon
-- ⚡ Fun fact: I am also computer engineer to
+# Nijat Mazanli
 
-<!---
-poseydonexe/poseydonexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner](your-banner-image-url)
+
+## About Me
+Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Python, and C/C++. Seeking to gain hands-on experience and enhance skills through a dynamic cybersecurity internship. Eager to delve into penetration testing, malware analysis, and network security to contribute to a secure digital environment.
+
+## Skills
+- JavaScript
+- Python
+- C/C++
+- Penetration Testing
+- Malware Analysis
+- Network Security
+
+## Projects
+- [Project 1](project-1-url) - Brief description
+- [Project 2](project-2-url) - Brief description
+
+## Contact
+- Email: [Your Email Address]
+- LinkedIn: [Your LinkedIn Profile]
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+## Personal Interests
+- Cybersecurity
+- Robotics
+- Programming Olympiads
+
+---
+
+Feel free to customize this template to suit your style and preferences. Happy coding!
