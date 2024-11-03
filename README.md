@@ -8,7 +8,7 @@ Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Pyt
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli)](https://github.com/nijatmazanli/)
 ### Full list
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmazanli&langs_count=10)
 ## Skills
 - JavaScript
 - Python
