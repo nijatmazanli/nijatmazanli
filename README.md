@@ -17,10 +17,11 @@ Passionate and motivated cybersecurity enthusiast with skills in JavaScript, Pyt
 - Network Security
 
 ## Contact
-- [[LinkedIn](https://www.linkedin.com/in/nicatmazanli/)]
-
+- [LinkedIn](https://www.linkedin.com/in/nicatmazanli/)
+  
 ## GitHub Stats
 ![nijatmazanli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nijatmazanli&theme=tokyonight&hide_border=false)
+
 ## Personal Interests
 - Cybersecurity
 - Robotics
